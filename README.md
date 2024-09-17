@@ -45,6 +45,16 @@
 
 <table>
   <tr>
+
+ 	<td align="center">
+      <a href="profiles/jhon-riveros.md">
+        <img src="https://scontent.fjau2-1.fna.fbcdn.net/v/t1.18169-9/9639_481072515269945_83183706_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=L6trZ1n8P7IAX_duTra&_nc_ht=scontent.fjau2-1.fna&oh=777b69b3cf0da9ecd1c036491b75f2a3&oe=61B98D19" width="100px;" alt=""/>
+        <br />
+        <sub><b>Jhon Riveros</b></sub>
+      </a>
+      <br />
+      <span>♍🍗📑⚽</span>
+    </td>
       <td align="center">
       <a href="profiles/jorge-vicuna.md">
         <img src="https://jorge-vicuna.gitlab.io/jorge-vicuna/static/media/avatar.272f0e79.jpg" width="100px;" alt=""/>
